@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/icss-app-react/static/css/main.0a937b97.css",
+    "main.js": "/icss-app-react/static/js/main.3c66d78b.js",
+    "static/js/684.0b793400.chunk.js": "/icss-app-react/static/js/684.0b793400.chunk.js",
+    "static/js/496.9b5a8b79.chunk.js": "/icss-app-react/static/js/496.9b5a8b79.chunk.js",
+    "static/media/pooria.jpeg": "/icss-app-react/static/media/pooria.ad220a1a739c1b367a68.jpeg",
+    "static/media/nuts.png": "/icss-app-react/static/media/nuts.d98170b2296e3861771a.png",
+    "static/media/Hemi Head.ttf": "/icss-app-react/static/media/Hemi Head.6591890a32e20c3e7392.ttf",
+    "service-worker.js": "/icss-app-react/service-worker.js",
+    "static/media/mantocute.png": "/icss-app-react/static/media/mantocute.8a65377eb40c15a9c68e.png",
+    "static/media/cuteteam3161.svg": "/icss-app-react/static/media/cuteteam3161.56e976032d86769fca9f87140af9bef0.svg",
+    "static/media/team3161.svg": "/icss-app-react/static/media/team3161.487738ac28f19426c2d7f76506df50f1.svg",
+    "index.html": "/icss-app-react/index.html",
+    "static/media/plus.svg": "/icss-app-react/static/media/plus.62ae69e7f1c5913c5764eb1c9d305b7e.svg",
+    "static/media/minus.svg": "/icss-app-react/static/media/minus.8d27c5a2bee6f5a6e4346d2f4502a703.svg",
+    "main.0a937b97.css.map": "/icss-app-react/static/css/main.0a937b97.css.map",
+    "main.3c66d78b.js.map": "/icss-app-react/static/js/main.3c66d78b.js.map",
+    "684.0b793400.chunk.js.map": "/icss-app-react/static/js/684.0b793400.chunk.js.map",
+    "496.9b5a8b79.chunk.js.map": "/icss-app-react/static/js/496.9b5a8b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a937b97.css",
+    "static/js/main.3c66d78b.js"
+  ]
+}
