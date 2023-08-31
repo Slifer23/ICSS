@@ -1,0 +1,67 @@
+{
+	"homepage": "https://Slifer23.github.io/icss-app-react",
+	"name": "intracloudscoutingsystem",
+	"version": "0.1.2",
+	"private": true,
+	"engines": {
+		"node": "16.x"
+	},
+	"dependencies": {
+		"@faker-js/faker": "^8.0.2",
+		"@testing-library/jest-dom": "^6.1.2",
+		"@testing-library/react": "^14.0.0",
+		"@testing-library/user-event": "^14.4.3",
+		"chart.js": "^4.4.0",
+		"idb": "^7.1.1",
+		"qr-scanner": "^1.4.2",
+		"qrcode": "^1.5.3",
+		"react": "^18.2.0",
+		"react-chartjs-2": "^5.2.0",
+		"react-dom": "^18.2.0",
+		"react-qr-reader": "^3.0.0-beta-1",
+		"react-router-dom": "^6.15.0",
+		"react-scripts": "^5.0.1",
+		"recharts": "^2.8.0",
+		"sass": "^1.66.1",
+		"web-vitals": "^3.4.0",
+		"workbox-background-sync": "^7.0.0",
+		"workbox-broadcast-update": "^7.0.0",
+		"workbox-cacheable-response": "^7.0.0",
+		"workbox-core": "^7.0.0",
+		"workbox-expiration": "^7.0.0",
+		"workbox-google-analytics": "^7.0.0",
+		"workbox-navigation-preload": "^7.0.0",
+		"workbox-precaching": "^7.0.0",
+		"workbox-range-requests": "^7.0.0",
+		"workbox-routing": "^7.0.0",
+		"workbox-strategies": "^7.0.0",
+		"workbox-streams": "^7.0.0"
+	},
+	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d start",
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+		
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}
